@@ -6,6 +6,8 @@
 
 NGSF turns a Google Sheet into a working web app. Pages, sections and fields are rows in config sheets, so most features are built by editing config, not code. It runs entirely on Google Apps Script: no server, no hosting bill.
 
+Template spreadsheet here: https://docs.google.com/spreadsheets/d/1MpAQdvvl-i6aCTuY1kd0qUNyMcKqvoQhKvGttRQwURM/edit?usp=sharing 
+
 [![Watch the NGSF setup tutorial](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/playlist?list=PLJAvWOBYE6Bg&si=17zZk2jsljEitT3s))
 
 Watch the NGSF setup tutorial here:

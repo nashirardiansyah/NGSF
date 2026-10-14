@@ -8,7 +8,9 @@ NGSF turns a Google Sheet into a working web app. Pages, sections and fields are
 
 [![Watch the NGSF setup tutorial](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/playlist?list=PLJAvWOBYE6Bg&si=17zZk2jsljEitT3s))
 
-> Screenshot: add `docs/screenshot.png` here.
+https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/playlist?list=PLJAvWOBYE6Bg&si=17zZk2jsljEitT3s
+
+
 
 ## What you get
 

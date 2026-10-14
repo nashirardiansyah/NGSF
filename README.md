@@ -2,7 +2,7 @@
 
 **A config-driven app framework for Google Sheets.**
 
-**[➜ Make a copy of NGSF v1.0.0](https://docs.google.com/spreadsheets/d/TEMPLATE_ID/copy)** · [Install guide](#install-about-15-minutes) · [Releases](../../releases) · [License](#license)
+**[➜ Make a copy of NGSF v1.0.0]([https://docs.google.com/spreadsheets/d/TEMPLATE_ID/copy](https://drive.google.com/drive/folders/1vrAiPqMKFr-djEP9MM7bp9Yz-9op_Rrd?usp=sharing))** · [Install guide](#install-about-15-minutes) · [Releases](../../releases) · [License](#license)
 
 NGSF turns a Google Sheet into a working web app. Pages, sections and fields are rows in config sheets, so most features are built by editing config, not code. It runs entirely on Google Apps Script: no server, no hosting bill.
 

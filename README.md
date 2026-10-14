@@ -2,6 +2,8 @@
 
 **A config-driven app framework for Google Sheets.**
 
+**[➜ Make a copy of NGSF v1.0.0](https://docs.google.com/spreadsheets/d/TEMPLATE_ID/copy)** · [Install guide](#install-about-15-minutes) · [Releases](../../releases) · [License](#license)
+
 NGSF turns a Google Sheet into a working web app. Pages, sections and fields are rows in config sheets, so most features are built by editing config, not code. It runs entirely on Google Apps Script: no server, no hosting bill.
 
 > Screenshot: add `docs/screenshot.png` here.
@@ -19,8 +21,10 @@ NGSF turns a Google Sheet into a working web app. Pages, sections and fields are
 
 ## Install (about 15 minutes)
 
-1. Open the template and click **Make a copy**:
-   **https://docs.google.com/spreadsheets/d/TEMPLATE_ID/copy**
+1. Open the template link and click **Make a copy**. You need a Google account; the copy goes into your own Drive with the script included.
+   **https://drive.google.com/drive/folders/1vrAiPqMKFr-djEP9MM7bp9Yz-9op_Rrd?usp=sharing**
+
+   Already running NGSF? Don't make a new copy, or you'll start with empty data. See [Updating](#updating) instead.
 2. In your copy, open **Extensions → Apps Script**.
 3. Click **Deploy → New deployment → Web app**. Set *Execute as* to **Me**, choose who has access, and click **Deploy**.
 4. Authorize the script when Google asks. You'll see an "unverified app" warning; this is normal for a personal Apps Script project.
